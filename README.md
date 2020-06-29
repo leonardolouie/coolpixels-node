@@ -1,6 +1,6 @@
 ## About
 
-Cool Pixels Node Api Challenge
+Coolpixesl node api challenge
 
 ## 🚀 Quick start
 
